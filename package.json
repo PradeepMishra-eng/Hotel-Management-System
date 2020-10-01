@@ -1,0 +1,33 @@
+{
+  "name": "hotel-mgmt-system",
+  "version": "1.0.1",
+  "description": "Hotel booking system for customer added with an admin feature to manage reservation.",
+  "keywords": [
+    "hotel",
+    "hotel booking",
+    "room reservation",
+    "hotel booking system",
+    "hotel reservation system"
+  ],
+  "repository": "https://github.com/tramyardg/hotel-mgmt-system",
+  "homepage": "http://hotel-mgmt-system.co.nf/",
+  "author": "Raymart De Guzman <raymart54@gmail.com>",
+  "private": false,
+  "scripts": {
+    "eslint": "eslint js/*.js"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3",
+    "vue": "^2.1.10"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
